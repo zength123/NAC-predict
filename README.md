@@ -1,6 +1,6 @@
 # NAC-predict
 
-Data Folder Structure/
+Data Folder Structure: 
 
 radiomics_features/
 Extracted radiomics feature tables (derived from imaging data), provided as de-identified tabular files.
@@ -8,10 +8,11 @@ Extracted radiomics feature tables (derived from imaging data), provided as de-i
 dl_deep_features/
 Deep learning feature embeddings , extracted from the penultimate layer of the deep learning model.
 
-fusion_deep_features/
+fusion_deep_features/n
 Feature-fusion model embeddings, per-case 128-dimensional deep fused features ,
 
-Scripts/
+
+Scripts: 
 build_resnet3D.py
 Training and inference pipeline for the 3D ResNet deep learning model.
 
