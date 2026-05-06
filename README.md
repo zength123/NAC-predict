@@ -1,5 +1,13 @@
 # NAC-predict
-checkpoints are avaiable from : https://huggingface.co/zength123/nac_prediction/tree/main
+This work was conducted by the Jiangsu Key Laboratory of Intelligent Medical Image Computing, Nanjing University of Information Science and Technology.
+
+Please visit our laboratory homepage for more information about our research:
+
+- Lab homepage: https://imic.nuist.edu.cn/index.htm
+- GitHub organization: https://github.com/imicjs
+
+We welcome academic exchange, feedback, and potential collaborations related to medical image computing, radiomics, deep learning, and AI-assisted oncology.
+
 
 Data Folder Structure: 
 
@@ -25,9 +33,8 @@ crop.py/
 ROI cropping and preprocessing of tumor regions.
 tonii.py/
 Image format conversion utilities.
-clinic.py/
-Clinical feature processing and integration.
 ITH.py/
 Intratumoral heterogeneity analysis based on imaging-derived features.
 README.md/
 This documentation file.
+checkpoints are avaiable from : https://huggingface.co/zength123/nac_prediction/tree/main
